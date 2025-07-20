@@ -61,9 +61,9 @@ don’t forget to enable **Firebase Storage** in the console.
 ```
 ├── index.html          # main page
 ├── styles.css          # clean ass styling
-├── script.js           # optional, could be inline too
-├── .github/
-│   └── workflows/      # CI stuff if you ever add it
+├── script.js           # some functionality
+├── .github/            # stupid platform folder
+│   └── workflows/      # the actual functionality
 │       └── upload-image.yml
 └── README.md           # you lookin at it rn 💀
 ```
@@ -81,3 +81,4 @@ just don’t upload toes or toes-related content pls 🙏
 
 made w/ love, firebase, and notepad++  
 🦇 stay trippy
+ 
