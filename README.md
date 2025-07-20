@@ -1,47 +1,47 @@
+---
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2025, 03_21_14 PM" src="https://github.com/user-attachments/assets/60703999-3f89-43b9-abfb-f380e18ddc50" />
+<img width="1536" height="1024" alt="Preview" src="https://github.com/user-attachments/assets/60703999-3f89-43b9-abfb-f380e18ddc50" />
 
+# 🌀 [trippyhost.github.io](https://trippyhost.github.io)
 
-# trippyhost.github.io
-
-**🔥 clean af image hosting powered by Firebase**  
-minimal UI • fast uploads • shareable links • no bullshit
+**🔥 stupidly clean image hosting powered by Firebase**
+minimal UI • lightning uploads • instant links • zero bullshit
 
 ---
 
-## 🚀 Features
+## 🚀 features that hit
 
-- 📁 Upload images directly from your browser  
-- ☁️ Firebase Storage integration  
-- 🔗 Instant shareable links  
-- 🧼 Sleek, dark UI (lowkey sexy)  
-- 📱 Mobile responsive  
-- 💨 No ads, no clutter
+* 📁 drag + drop or click to upload, straight from the browser
+* ☁️ full Firebase Storage hookup
+* 🔗 instant shareable links for max clout
+* 🌚 sleek af dark mode UI
+* 📱 mobile-friendly (ofc)
+* 🧘‍♂️ no ads, no logins, no brain damage
 
 ---
 
-## 📸 Live Demo
+## 🔥 live demo
 
 🔗 **[trippyhost.github.io](https://trippyhost.github.io)**
+go touch it. it’s live.
 
 ---
 
-## 🛠 Setup
-
-clone this repo & run it locally like a real dev:
+## 🛠 local setup (for nerds)
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/trippyhost.github.io.git
 cd trippyhost.github.io
 ```
 
-then just open `index.html` in your browser. that's it. no npm bs 😭
+then open `index.html` in a browser.
+that’s it. no `npm install`, no 42 dependencies, no tears 😭
 
 ---
 
-## 🔧 Firebase Config
+## 🔧 firebase config
 
-if u not using the included Firebase project, plug in your own creds in `index.html`:
+if u using ur own Firebase project, just swap the creds in `index.html`:
 
 ```js
 const firebaseConfig = {
@@ -55,33 +55,36 @@ const firebaseConfig = {
 };
 ```
 
-don’t forget to enable **Firebase Storage** in the console.
+also:
+✅ make sure Firebase Storage is enabled
+❌ don’t cry if it breaks and you didn’t do that
 
 ---
 
-## 📂 File Structure
+## 🧱 file structure
 
 ```
-├── index.html          # main page
-├── styles.css          # clean ass styling
-├── script.js           # some functionality
-├── .github/            # stupid platform folder
-│   └── workflows/      # the actual functionality
+├── index.html          # main page, the face of the brand
+├── styles.css          # sexy styling
+├── script.js           # handles the sauce
+├── .github/            # the platform shenanigans
+│   └── workflows/
 │       └── upload-image.yml
-└── README.md           # you lookin at it rn 💀
+└── README.md           # the gospel you're reading rn 💀
 ```
 
 ---
 
-## 📄 License
+## 📄 license
 
-MIT — steal it, fork it, sell it, idc  
-just don’t upload toes or toes-related content pls 🙏
+MIT — do what u want
+just don’t upload anything toe-related. we beg u. 🙏
 
 ---
 
-## ✨ Credits
+## ✨ credits
 
-made w/ love, firebase, and notepad++  
-🦇 stay trippy
- 
+made w/ ✨ firebase, 💀 notepad++, and 🤍 no sanity
+🦇 stay trippy. don’t touch grass.
+
+---
