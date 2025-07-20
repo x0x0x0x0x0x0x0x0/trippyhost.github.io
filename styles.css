@@ -11,16 +11,22 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url("https://t4.ftcdn.net/jpg/03/73/58/95/360_F_373589508_GlRml56OtZ8YTtri59pmvweCNVYczmR5.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background: linear-gradient(270deg, #0f0c29, #302b63, #24243e);
+  background-size: 600% 600%;
+  animation: gradientMove 18s ease infinite;
   color: #f2f2f2;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-  position: relative;
   text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 .container {
@@ -51,12 +57,6 @@ h1 {
   animation: gradientMove 4s ease infinite;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
 }
 
 .subtext {
@@ -92,10 +92,13 @@ button:hover {
   color: #70ff9d;
 }
 
+#imageContainer {
+  margin-top: 1rem;
+}
+
 #imageContainer img {
   max-width: 100%;
-  height: auto;
+  max-height: 300px;
   border-radius: 10px;
   margin-top: 1rem;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
