@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="Preview" src="https://github.com/user-attachments/assets/60703999-3f89-43b9-abfb-f380e18ddc50" />
 
-# 🌀 [trippyhost.github.io](https://trippyhost.github.io)
+# 🌀 trippyhost.github.io — clean image hosting 🔗
 
 **🔥 stupidly clean image hosting powered by Firebase**
 minimal UI • lightning uploads • instant links • zero bullshit
