@@ -1,4 +1,7 @@
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 20, 2025, 03_21_14 PM" src="https://github.com/user-attachments/assets/60703999-3f89-43b9-abfb-f380e18ddc50" />
+
+
 # trippyhost.github.io
 
 **🔥 clean af image hosting powered by Firebase**  
