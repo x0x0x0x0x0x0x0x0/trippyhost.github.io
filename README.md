@@ -81,7 +81,5 @@ just don’t upload anything toe-related. we beg u. 🙏
 
 ## ✨ credits
 
-made w/ ✨ firebase, 💀 notepad++, and 🤍 no sanity
-🦇 stay trippy. don’t touch grass.
-
+made w/ firebase, notepad++, and no sanity
 ---
